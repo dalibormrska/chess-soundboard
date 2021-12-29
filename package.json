@@ -5,7 +5,8 @@
     "main": "main.js",
     "dependencies": {
         "@tonaljs/tonal": "^4.6.5",
-        "howler": "^2.2.3"
+        "pgn-parser": "^2.2.0",
+        "tone": "^14.7.77"
     },
     "devDependencies": {},
     "scripts": {
